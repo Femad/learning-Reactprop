@@ -1,0 +1,24 @@
+.hero--main {
+  background-color: #fff;
+  height: 80vh;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.hero--image {
+  width: 100%;
+}
+.hero--info,
+h1,
+p {
+  background-color: #fff;
+  max-width: 80%;
+}
+h1 {
+  font-weight: bolder;
+}
+
+.hero--info {
+  padding-left: 20px;
+  font-weight: 600;
+}
